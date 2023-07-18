@@ -166,6 +166,38 @@
       }
     },
     {
+      "type": "clashRuleSetClassical",
+      "action": "output",
+      "args": {
+        "outputName": "Countryasnclassical.yaml",
+        "wantedList": [
+          "cloudflare",
+          "cloudfront",
+          "facebook",
+          "fastly",
+          "google",
+          "netflix",
+          "telegram",
+          "twitter"
+      }
+    },
+    {
+      "type": "clashRuleSet",
+      "action": "output",
+      "args": {
+        "outputName": "Countryasnruleset.yaml",
+        "wantedList": [
+          "cloudflare",
+          "cloudfront",
+          "facebook",
+          "fastly",
+          "google",
+          "netflix",
+          "telegram",
+          "twitter"
+      }
+    },
+    {
       "type": "text",
       "action": "output"
     }
