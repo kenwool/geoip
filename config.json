@@ -166,10 +166,10 @@
       }
     },
     {
-      "type": "clashRuleSetClassical",
+      "type": "clashRuleSet",
       "action": "output",
       "args": {
-        "outputName": "Countryasnclassical.yaml",
+        "outputName": "Countryasnruleset.yaml",
         "wantedList": [
           "cloudflare",
           "cloudfront",
