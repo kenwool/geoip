@@ -81,6 +81,7 @@
     }
   ],
   "output": [
+  /*
     {
       "type": "v2rayGeoIPDat",
       "action": "output",
@@ -140,7 +141,7 @@
         ]
       }
     },
-    {
+   {
       "type": "maxmindMMDB",
       "action": "output",
       "args": {
@@ -165,6 +166,7 @@
         ]
       }
     },
+    */
     {
       "type": "clashRuleSetClassical",
       "action": "output",
@@ -182,6 +184,7 @@
         ]
       }
     },
+    /*
     {
       "type": "clashRuleSet",
       "action": "output",
@@ -199,6 +202,7 @@
         ]
       }
     },
+    */
     {
       "type": "text",
       "action": "output"
